@@ -6,3 +6,6 @@
 	border-radius: 0.5rem;
 	opacity: 0.45;
 }
+.linkSVG:hover {
+	fill: rgb(195, 7, 157);
+}
